@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+.footer{
+    height: 70px;
+    background-color: purple;
+    color: black;
+    text-align: center;
+}
+.banner{
+    height: 400px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.about{
+    width: 50%;
+    height: 200px;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.image{
+    width: 50%;
+    height: 200px;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+.about_image{
+    display: flex;
+}
+.task1{
+    width: 33.33%;
+    height: 100px;
+    background-color:darkblue;
+    color: white;
+    text-align: center;
+}
+.task2{
+    width: 33.33%;
+    height: 100px;
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+}
+.task3{
+    width: 33.33%;
+    height: 100px;
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+}
+.about_task{
+    display: flex;
+}
+.para1{
+    width: 25%;
+    height: 100px;
+    background-color:yellowgreen;
+    color: white;
+    text-align: center;
+}
+.para2{
+    width: 25%;
+    height: 100px;
+    background-color: darkorange;
+    color: white;
+    text-align: center;
+}
+.para3{
+    width: 25%;
+    height: 100px;
+    background-color: darkgoldenrod;
+    color: white;
+    text-align: center;
+}
+.para4{
+    width: 25%;
+    height: 100px;
+    background-color: yellow;
+    color: white;
+    text-align: center;
+}
+.paragraph{
+    display: flex;
+}
